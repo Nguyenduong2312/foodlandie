@@ -5,7 +5,7 @@ import img3 from '../../asset/images/ib3.png'
 
 const Inbox = () => {
     return (
-        <div className='max-w-[1340px] h-[442px] mx-auto bg-[#E7F9FD] rounded-[60px] pt-[80px] relative mt-[140px]'>
+        <div className='max-w-[1440px] h-[442px] mx-auto bg-[#E7F9FD] rounded-[60px] pt-[80px] relative mt-[140px]'>
             <p className='text-black text-[48px] font-[700] leading-[50px] tracking-[-1.92px] text-center'>Deliciousness to your inbox</p>
             <p className='max-w-[620px] mx-auto text-[#00000099] text-[16px] font-[400] leading-[28px] mt-[24px] text-center'>Lorem ipsum dolor sit amet, consectetuipisicing elit, 
                 sed do eiusmod tempor incididunt ut labore et dolore 

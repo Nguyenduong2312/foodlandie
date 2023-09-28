@@ -1,8 +1,8 @@
 import React from 'react'
-import logo from '../../asset/images/logo.svg'
 import facebook from '../../asset/images/fbIcon.svg'
-import twitter from '../../asset/images/twitterIcon.svg'
 import instagram from '../../asset/images/instagramIcon.svg'
+import logo from '../../asset/images/logo.svg'
+import twitter from '../../asset/images/twitterIcon.svg'
 
 const Footer = () => {
     return (
@@ -27,7 +27,6 @@ const Footer = () => {
                     <img width={22} src={instagram} alt=''/>
                 </div>
             </div>
-v
         </div>
     )
 }

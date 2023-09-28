@@ -15,3 +15,11 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+   url("./asset/fonts/Inter.ttf") format("truetype");
+  font-weight: bold;
+ }
